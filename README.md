@@ -49,8 +49,6 @@ The moral is that I have always loved creating solutions and automating the mund
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/anjaustin/)](https://www.linkedin.com/in/anjaustin/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ANJAFTW)](https://twitter.com/ANJAFTW)
 
-<!-- This is a comment in Markdown -->
-
 ## 💸 Support my hobby
 
 If you like my projects and want to support me, consider buying me a triple espresso! ☕
