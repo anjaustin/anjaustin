@@ -15,7 +15,7 @@ I later left the company to code an email campaign management platform called `E
 
 The moral is that I have always loved creating solutions and automating the mundane. I still do.
 
-## Today
+## ⏳ Today
 
 - 🔭 I’m currently working on personal projects and freelance programming.
 - 🌱 I’m advancing my skills and knowledge in Machine Learning.
