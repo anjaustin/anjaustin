@@ -30,11 +30,12 @@ The moral is that I have always loved creating solutions and automating the mund
 |-------------------|----------------------------------------------------|
 | 💻 Languages      | Bash, Python, JavaScript, HTML/CSS, SQL, PHP, Perl |
 | 🗄️ Databases      | MySQL, MariaDB, PostgreSQL, AstraDB                |
-| 🌐 Web Frameworks | jQuery, Express, Flask, Gunicorn                   |
+| 🔧 Web Frameworks | jQuery, Express, Flask, Gunicorn                   |
 | 📚 Libraries      | NumPy, Pandas, fastai, PyTorch, TensorFlow         |
 | 🛠️ Tools          | Git, Docker, UnrealEngine 4.x                      |
 | 🧰 IDEs           | VS Code, IntelliJ, nano, Jupyter, Eclipse          |
 | 🖥️ Operating Sys. | Linux, Windows, WSL, MacOS                         |
+| 🌐 Services       | Huggingface, AssemblyAI, OpenAI, Rundpod, Vast     |
 
 ## 🗿 Projects
 
