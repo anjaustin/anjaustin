@@ -3,7 +3,19 @@
 ## 👾 About Me
 
 I'm Tripp, a passionate self-taught programmer with a love for creating automated solutions to complex problems.
-While my journey in professional programming is just beginning, I've been coding to automate the mundane & the unnecessarily complex to solve real-world problems for a couple of decades.
+While my journey in professional programming is just beginning, I've been automating the mundane, simplifying the unnecessarily complex, and solving real-world problems with code for a couple of decades.
+
+> ### True Story
+
+In 1999, I was a Pre-Sales Engineer for a company specializing in broadcasting facsimiles. Better known at the time as fax broadcasting. We'd just released a new email broadcasting service; it was in its infancy. It took the pre-sales teams hours to manually set up tests for these jobs, let alone deployment. We had to comb through text and HTML files to replace the links with new links our system could track so the users would know who clicked through the emails to their websites and landing pages. Only two or three of us in the pre-sales teams had any familiarity with HTML. The teams were swamped with work before this new service came out. It was crushing us.
+
+I had little to no programming experience at the time. In point of fact, the last time I wrote anything in code was in the 5th grade on a [Tandy TRS-80 Color Computer with 4,096 bites of RAM](https://en.wikipedia.org/wiki/TRS-80_Color_Computer) with a [cassette recorder](./assets/images/FMNzTXcX0AA0JM2.jpg_large) for saving and recalling programs. Extremely motivated, I spent a weekend learning enough Perl and regular expressions to write a small hosted app to upload our text and HTML docs, replace the embedded URLs with trackable URLs, and download the new files. It worked! It wasn't pretty, but it reduced hours of testing into minutes. The following Monday morning, I shared it with all the pre-sales teams in our company. My inbox overflowed with emails of gratitude for giving the teams their days back. I was hooked.
+
+I later left the company to write an email campaign management platform called `Ecursor.net.` My first and only customer was the Texas Department of Agriculture. They paid me 5,000 USD for the first job. - Then, my second marriage. The End.
+
+The moral is that I have always loved creating solutions and automating the mundane. I still do.
+
+## Today
 
 - 🔭 I’m currently working on personal projects and freelance programming.
 - 🌱 I’m advancing my skills and knowledge in Machine Learning.
