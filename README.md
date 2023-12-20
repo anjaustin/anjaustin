@@ -15,6 +15,10 @@ I later left the company to code an email campaign management platform called `E
 
 The moral is that I have always loved creating solutions and automating the mundane. I still do.
 
+## 👀 Don't Look Back
+
+Résumé of **[A N J Austin](./resume/resume-general.md)**.
+
 ## ⏳ Today
 
 - 🔭 I’m currently working on personal projects and freelance programming.
