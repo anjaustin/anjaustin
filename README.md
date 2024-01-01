@@ -33,7 +33,7 @@ Résumé of **[A N J Austin](./resume/resume-general.md)**.
 | Category          | Skills                                             |
 |-------------------|----------------------------------------------------|
 | 💻 Languages      | Bash, Python, JavaScript, HTML/CSS, SQL, PHP, Perl |
-| 🗄️ Databases      | MySQL, MariaDB, PostgreSQL, AstraDB                |
+| 🗄️ Databases      | MySQL, MariaDB, PostgreSQL, AstraDB, qdrant        |
 | 🔧 Web Frameworks | jQuery, Express, Flask, Gunicorn                   |
 | 📚 Libraries      | NumPy, Pandas, fastai, PyTorch, TensorFlow         |
 | 🛠️ Tools          | Git, Docker, UnrealEngine 4.x                      |
