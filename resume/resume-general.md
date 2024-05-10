@@ -4,69 +4,25 @@ As a visionary team player with a prolific background in project risk management
 
 ## EXPERIENCE
 
-### Brake & Alignment Technician
+### Systems Prototyping, Research & Development
 
-**Les Schwab, Arvada, Colorado** — September 2023 : December 2023
+**Z Tangerine, Westminster, Colorado** — September 2019 : PRESENT
 
-- Accurate diagnosis, repair, and replacement of vital vehicle components.
-- Specialized in suspension systems, steering components, braking systems, wheels, and tires.
-- Routine maintenance, precision alignments, and aftermarket suspension kit installation.
-- Focus on outstanding customer service, contributing to monthly revenue achievements and high customer satisfaction.
-
-### Ride Share Driver
-**Uber/Lyft, Greater Denver, Colorado** — May 2022 : September 2023
-
-- Maintained a 4.99-star rating for timely, efficient, and top-tier transportation services.
-- Ensured passenger safety, comfort, and exceptional vehicle cleanliness.
-- Received positive feedback for professionalism, luxurious service, and courteous demeanor.
-
-### Sales & Service Technician
-**Les Schwab, Arvada, Colorado** — September 2021 : May 2022
-
-- Accurate diagnosis and efficient resolution of vehicle component issues.
-- Provided regular maintenance, alignments, and aftermarket kit installation.
-- Consistently achieved high customer satisfaction ratings.
-
-### Market & Product Specialist
-**4R Ranch, Arvada, Colorado** — September 2020 : June 2021
-
-- Managed business operations, sales, bookkeeping, and inventory management.
-- Handled property upkeep and managed social media accounts.
-- Delivered exceptional customer service and ensured the seamless operation of the new location.
-
-### Ride Share Driver
-**Uber & Lyft, Greater Denver, Colorado** — October 2019 : August 2020
-
-- Provided top-notch transportation services, ensuring passenger satisfaction and safety.
-- Built rapport with passengers from diverse backgrounds and maintained high standards for vehicle presentation.
-
-### Tire Warranty Administrator
-**Automotive Business Solutions, Broomfield, Colorado** — June 2019 : September 2019
-
-- Managed customer claims for road hazard warranties on tires.
-- Achieved 100% accuracy in all reports submitted to partners and vendors.
-- Demonstrated meticulous attention to detail and commitment to excellence.
-
-### Aircraft Warehouse & Shipping Associate
-**Univair, Aurora, Colorado** — April 2018 : January 2019
-
-- Efficiently managed parts warehouse, inventory control, and order fulfillment.
-- Processed purchase orders and ensured safe shipment of aircraft parts.
-- Streamlined warehouse processes and enhanced operational productivity.
+At Z Tangerine, I lead the development of first-in-series projects that solve business execution problems with process modeling and automation. I work with organizations in the Automotive, Communications, and Project Management industries to design, develop, and test prototypes for retail apps, back-end systems, and resource-dependent processes. Some noteworthy achievements include a project for an automotive client to model the full scope of their business processes. Through workshops, modeling simulations, and software prototyping I identified critical bottlenecks and high error loss rate processes, uncovering opportunities for streamlining operational workflows and significantly compressing time-to-revenue, sales cycle times, and customer support calls.
+I also developed an extremely fast and lightweight messaging automation parser that revolutionized traditional workflows for a communications client by automating 95% of manual tasks and abstracting away 90% of operational complexity. More recently, I developed a prototype of a software tool that assesses the health and validity of major project plans against a set of industry best practices. My tenure at Z Tangerine has been marked by a passion for efficiency, simplicity, and the successful bridging of technical innovation and process management.
 
 ### Project Risk Management Training & Consulting
-**Advanced Planning Analytics, Houston, Texas** — January 2017 : February 2018
+**Advanced Planning Analytics, Houston, Texas** — January 2017 : February 2019
 
 - Provided project risk management training and consulting services.
 - Specialized in Oracle P6 and Project Risk Analysis software.
 - Developed proprietary schedule quality assessment tools for P6 schedules.
 
-### Professional Development & Self-Reflection
-**June 2012 - January 2017**
+### Software Project Management Support
+**Ace Josserand Consulting, Durham, North Carolina** — June 2012 : January 2017
 
-- Embarked on a period of personal and professional introspection.
-- Gained new perspectives on diverse work cultures and practices.
-- Enhanced adaptability, cultural awareness, and readiness for new challenges.
+I provided comprehensive Project Management consulting to software teams, including Development, Integration, QA, and Performance testing, ensuring seamless major release events. My involvement was crucial in defining and documenting Standard Operating Procedures for all project management-related operations such as build-outs, refreshes, retrofits, hot-fixes, and effective ticketing system usage.
+My responsibilities extended to offering extensive training to multi-functional teams, honing their skills and knowledge. I managed risks and issues, maintaining a steady course towards our goals. Through regular management reporting and impactful presentations, I kept stakeholders informed and engaged. My technical acumen was further demonstrated in Bash scripting, vital for the automation of operations and maintenance tasks, including deploying code packages, database objects, and content for applications.
 
 ### Risk Manager
 **Shell Int’l E & P, Houston, Texas** — April 2011 : June 2012
