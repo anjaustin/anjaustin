@@ -54,7 +54,7 @@ If you like words like *deterministic*, *inspectable*, *replayable*, and *compos
 ## 🧪 Projects
 
 - **[TriX](https://github.com/anjaustin/trix)** — A 2-Bit Conditional Ternary Neural Architecture with Learned Computational Sparsity and Emergent Routing
-- **[Fungible Computation]([https://github.com/anjaustin](https://github.com/anjaustin/fungible-computation))** — Demonstrating Equivalence Between Neural and Classical Computation Through Exact Digital Emulation
+- **[Fungible Computation]((https://github.com/anjaustin/fungible-computation))** — Demonstrating Equivalence Between Neural and Classical Computation Through Exact Digital Emulation
 - **[FLYNNCONCEIVABLE](https://github.com/anjaustin/flynnconceivable)** — Verified neural implementation of the 6502 CPU   
 - **[Hollywood Squares OS](https://github.com/anjaustin/hollywood-squares-os)** — A distributed micro-kernel designed for addressable processor networks where message passing serves as the fundamental `syscall` interface.
 
