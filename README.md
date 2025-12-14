@@ -51,9 +51,43 @@ If you like words like *deterministic*, *inspectable*, *replayable*, and *compos
 
 ## 🧪 Projects
 
-I’m currently consolidating and documenting several active research-grade projects.
+Here are a few pinned projects that reflect the kind of systems I enjoy building:
 
-> **More coming soon — this space will fill quickly.**
+### 🔹 Hollywood Squares
+A coordination operating system for **deterministic, message-passing computation**.  
+Explores how topology, local rules, and observability can produce global convergence with inherited correctness.
+
+> Focus: distributed systems, verification, compositional computation
+
+---
+
+### 🔹 FLYNNCONCEIVABLE
+A **verified neural implementation of the MOS 6502 CPU**.  
+Learned instruction semantics are frozen into deterministic artifacts and exhaustively verified over their entire input domains.
+
+> Focus: learning as synthesis, exact computation, verification
+
+---
+
+### 🔹 Bubble Machine
+A distributed “relaxation field” where computation emerges from **local compare-swap rules and topology**, not global control.  
+Demonstrates that *structure is the algorithm*.
+
+> Focus: distributed convergence, observability, replayability
+
+---
+
+### 🔹 TriX / two-be
+Experiments in **sparse, structured neural computation** where routing and selection emerge from architecture rather than dense weights.
+
+> Focus: neural/classical equivalence, routing as computation
+
+---
+
+### 🔹 Systems & Tooling Experiments
+Smaller utilities and prototypes focused on automation, infrastructure, and making complex workflows boring.
+
+> Focus: practical automation, leverage, clarity
 
 ## 🤝 Collaboration
 
