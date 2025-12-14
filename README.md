@@ -51,47 +51,12 @@ If you like words like *deterministic*, *inspectable*, *replayable*, and *compos
 
 ## 🧪 Projects
 
-- **[Hollywood Squares](https://github.com/anjaustin/hollywood-squares)** — Coordination OS for deterministic, message-passing computation  
-- **[FLYNNCONCEIVABLE](https://github.com/anjaustin/flynnconceivable)** — Verified neural implementation of the 6502 CPU  
-- **[Bubble Machine](https://github.com/anjaustin/bubble-machine)** — Distributed convergence via local rules and topology  
-- **[TriX / two-be](https://github.com/anjaustin/two-be)** — Sparse neural routing as structured computation  
-- **[Automation & Tooling](https://github.com/anjaustin)** — Making hard things boring
+- **[TriX](https://github.com/anjaustin/trix)** — A 2-Bit Conditional Ternary Neural Architecture with Learned Computational Sparsity and Emergent Routing
+- **[Fungible Computation]([https://github.com/anjaustin](https://github.com/anjaustin/fungible-computation))** — Demonstrating Equivalence Between Neural and Classical Computation Through Exact Digital Emulation
+- **[FLYNNCONCEIVABLE](https://github.com/anjaustin/flynnconceivable)** — Verified neural implementation of the 6502 CPU   
+- **[Hollywood Squares OS](https://github.com/anjaustin/hollywood-squares-os)** — A distributed micro-kernel designed for addressable processor networks where message passing serves as the fundamental `syscall` interface.
 
 ---
-
-### 🔹 [Hollywood Squares](https://github.com/anjaustin/hollywood-squares)
-A coordination operating system for **deterministic, message-passing computation**.  
-Explores how topology, local rules, and observability can produce global convergence with inherited correctness.
-
-> Focus: distributed systems, verification, compositional computation
-
----
-
-### 🔹 [FLYNNCONCEIVABLE](https://github.com/anjaustin/flynnconceivable)
-A **verified neural implementation of the MOS 6502 CPU**.  
-Learned instruction semantics are frozen into deterministic artifacts and exhaustively verified over their entire input domains.
-
-> Focus: learning as synthesis, exact computation, verification
-
----
-
-### 🔹 [Bubble Machine](https://github.com/anjaustin/bubble-machine)
-A distributed “relaxation field” where computation emerges from **local compare-swap rules and topology**, not global control.  
-Demonstrates that *structure is the algorithm*.
-
-> Focus: distributed convergence, observability, replayability
-
----
-
-### 🔹 [TriX / two-be](https://github.com/anjaustin/two-be)
-Experiments in **sparse, structured neural computation** where routing and selection emerge from architecture rather than dense weights.
-
-> Focus: neural/classical equivalence, routing as computation
-
----
-
-### 🔹 [Systems & Tooling Experiments](https://github.com/anjaustin)
-Smaller utilities and prototypes focused on automation, infrastructure, and making complex workflows boring.
 
 > Focus: practical automation, leverage, clarity
 
