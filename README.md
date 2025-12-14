@@ -57,11 +57,9 @@ If you like words like *deterministic*, *inspectable*, *replayable*, and *compos
 - **[TriX / two-be](https://github.com/anjaustin/two-be)** — Sparse neural routing as structured computation  
 - **[Automation & Tooling](https://github.com/anjaustin)** — Making hard things boring
 
-## 🧪 Projects
+---
 
-Here are a few pinned projects that reflect the kind of systems I enjoy building:
-
-### 🔹 Hollywood Squares
+### 🔹 [Hollywood Squares](https://github.com/anjaustin/hollywood-squares)
 A coordination operating system for **deterministic, message-passing computation**.  
 Explores how topology, local rules, and observability can produce global convergence with inherited correctness.
 
@@ -69,7 +67,7 @@ Explores how topology, local rules, and observability can produce global converg
 
 ---
 
-### 🔹 FLYNNCONCEIVABLE
+### 🔹 [FLYNNCONCEIVABLE](https://github.com/anjaustin/flynnconceivable)
 A **verified neural implementation of the MOS 6502 CPU**.  
 Learned instruction semantics are frozen into deterministic artifacts and exhaustively verified over their entire input domains.
 
@@ -77,7 +75,7 @@ Learned instruction semantics are frozen into deterministic artifacts and exhaus
 
 ---
 
-### 🔹 Bubble Machine
+### 🔹 [Bubble Machine](https://github.com/anjaustin/bubble-machine)
 A distributed “relaxation field” where computation emerges from **local compare-swap rules and topology**, not global control.  
 Demonstrates that *structure is the algorithm*.
 
@@ -85,14 +83,14 @@ Demonstrates that *structure is the algorithm*.
 
 ---
 
-### 🔹 TriX / two-be
+### 🔹 [TriX / two-be](https://github.com/anjaustin/two-be)
 Experiments in **sparse, structured neural computation** where routing and selection emerge from architecture rather than dense weights.
 
 > Focus: neural/classical equivalence, routing as computation
 
 ---
 
-### 🔹 Systems & Tooling Experiments
+### 🔹 [Systems & Tooling Experiments](https://github.com/anjaustin)
 Smaller utilities and prototypes focused on automation, infrastructure, and making complex workflows boring.
 
 > Focus: practical automation, leverage, clarity
