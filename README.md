@@ -76,7 +76,7 @@ If you’re building something thoughtful and a little weird, I’m listening.
 
 ## 📫 Contact
 
-- ![Linkedin LinkedIn](https://www.linkedin.com/) &nbsp; ![GitHub GitHub](https://github.com/)
+- [LinkedIn](https://www.linkedin.com/in/anjaustin)
 
 - 💬 Open to DMs and collaboration
 
