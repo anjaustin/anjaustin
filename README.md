@@ -1,17 +1,19 @@
-# Hi. I build systems that make complexity behave. 👋
+# 👋 Greetings! I explore systems that settle into complexity. 🍃
 
 ## 👾 About Me
 
-I'm Tripp — a systems-minded programmer focused on **automation, verification, and compositional computation**.
+I'm Tripp — a systems-minded explorer focused on **automation, verification, and compositional computation**.
 
 For the last two decades, I’ve been doing one thing consistently:  
 **finding the part of a problem everyone assumes must be painful — and making it boring instead.**
 
-I don’t chase novelty for its own sake. I care about:
+I'm interested in:
 - deterministic behavior
 - inspectable systems
 - tools that explain themselves
 - automation that gives people their time back
+- co-evolutionary systems
+- cognition & recursive systems design
 
 ### A short origin story
 
@@ -79,5 +81,4 @@ If you’re building something thoughtful and a little weird, I’m listening.
 
 ## ⚡ Fun fact
 
-I like unusual socks.  
-This has never once been relevant — but it remains true. 🧦
+I have no idea what I am doing, but I know I am doing it really well. ✨
