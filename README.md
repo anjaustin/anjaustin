@@ -76,7 +76,8 @@ If you’re building something thoughtful and a little weird, I’m listening.
 
 ## 📫 Contact
 
-- 🐦 X / Twitter: **@ANJAFTW**
+- ![Linkedin LinkedIn](https://www.linkedin.com/) &nbsp; ![GitHub GitHub](https://github.com/)
+
 - 💬 Open to DMs and collaboration
 
 ## ⚡ Fun fact
