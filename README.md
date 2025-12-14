@@ -51,6 +51,14 @@ If you like words like *deterministic*, *inspectable*, *replayable*, and *compos
 
 ## 🧪 Projects
 
+- **[Hollywood Squares](https://github.com/anjaustin/hollywood-squares)** — Coordination OS for deterministic, message-passing computation  
+- **[FLYNNCONCEIVABLE](https://github.com/anjaustin/flynnconceivable)** — Verified neural implementation of the 6502 CPU  
+- **[Bubble Machine](https://github.com/anjaustin/bubble-machine)** — Distributed convergence via local rules and topology  
+- **[TriX / two-be](https://github.com/anjaustin/two-be)** — Sparse neural routing as structured computation  
+- **[Automation & Tooling](https://github.com/anjaustin)** — Making hard things boring
+
+## 🧪 Projects
+
 Here are a few pinned projects that reflect the kind of systems I enjoy building:
 
 ### 🔹 Hollywood Squares
