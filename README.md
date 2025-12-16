@@ -35,19 +35,6 @@ I love solutions!
   Train → freeze → verify → deploy.  
   ML as an engineering discipline, not a guessing game.
 
-## 🛠️ Skills & Tools
-
-| Category | Stack |
-|--------|-------|
-| 💻 Languages | Bash, Python, JavaScript, PHP, SQL, Perl |
-| 🧠 ML / Data | NumPy, Pandas, PyTorch, TensorFlow, fastai |
-| 🗄️ Databases | PostgreSQL, MySQL, MariaDB, AstraDB, Qdrant |
-| 🔧 Infra | Docker, Linux, WSL |
-| 🧰 Tooling | Git, VS Code, Jupyter |
-| 🌐 APIs & Services | HuggingFace, OpenAI, AssemblyAI, Vast |
-
-(I value **understanding systems** more than collecting frameworks.)
-
 ## 🧪 Projects
 
 - **[TriX](https://github.com/anjaustin/trix)** — A 2-Bit Conditional Ternary Neural Architecture with Learned Computational Sparsity and Emergent Routing
