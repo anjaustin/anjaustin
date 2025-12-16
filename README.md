@@ -18,11 +18,10 @@ I'm interested in:
 ### A short origin story
 
 In 2001, with almost no formal programming background, I taught myself just enough Perl and regex over a weekend to automate a task my team believed *couldn’t* be automated.  
-What took hours suddenly took minutes.  
-People got their days back.  
+Hours were compressed into seconds. My peers and I got our days back.  
 I was hooked.
 
-That pattern never changed.
+I love solutions!
 
 ## 🧠 What I’m Working On Now
 
@@ -35,8 +34,6 @@ That pattern never changed.
 - **Learning as manufacturing**  
   Train → freeze → verify → deploy.  
   ML as an engineering discipline, not a guessing game.
-
-If you like words like *deterministic*, *inspectable*, *replayable*, and *composable*, we’ll get along.
 
 ## 🛠️ Skills & Tools
 
