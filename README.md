@@ -15,7 +15,7 @@ I'm interested in:
 - co-evolutionary systems
 - cognition & recursive systems design
 
-### A short origin story
+### True Story
 
 In 2001, with almost no formal programming background, I taught myself just enough Perl and regex over a weekend to automate a task my team believed *couldn’t* be automated.  
 Hours were compressed into seconds. My peers and I got our days back.  
