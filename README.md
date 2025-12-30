@@ -1,11 +1,11 @@
-# 👋 Greetings! I explore systems that settle into complexity. 🍃
+# 👋 Greetings, Programs!
 
 ## 👾 About Me
 
-I'm Tripp — a systems-minded explorer focused on **automation, verification, and compositional computation**.
+I'm Tripp — a systems-minded Explorer of Possibility Spaces.
 
-For the last two decades, I’ve been doing one thing consistently:  
-**finding the part of a problem everyone assumes must be painful — and making it boring instead.**
+For the last 3 decades, I’ve been doing one thing consistently:  
+**Exploration**
 
 I'm interested in:
 - deterministic behavior
@@ -17,21 +17,21 @@ I'm interested in:
 
 ### True Story
 
-In 2001, with almost no formal programming background, I taught myself just enough Perl and regex over a weekend to automate a task my team believed *couldn’t* be automated.  
-Hours were compressed into seconds. My peers and I got our days back.  
+In 2001, with almost no formal programming background, I taught myself just enough Perl, Bash, and regex over a weekend to automate a manually intensive workflow. Hours were compressed into seconds. My peers and I got our days back.  
+
 I was hooked.
 
 I love solutions!
 
 ## 🧠 What I’m Working On Now
 
-- **Verified compositional computation**  
+- **Verified compositional neural nets**
   Systems where small, correct parts compose into larger systems with inherited correctness.
 
-- **Deterministic message-passing architectures**  
-  Computation as observable, replayable coordination — not opaque execution.
+- **Deterministic message-passing architectures**
+  Observable, replayable coordination of neural nets — not opaque execution.
 
-- **Learning as manufacturing**  
+- **Learning as manufacturing**
   Train → freeze → verify → deploy.  
   ML as an engineering discipline, not a guessing game.
 
@@ -44,7 +44,7 @@ I love solutions!
 
 ---
 
-> Focus: practical automation, leverage, clarity
+> Focus: 0-Trust Neural Nets
 
 ## 🤝 Collaboration
 
