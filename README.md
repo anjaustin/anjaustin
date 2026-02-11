@@ -2,7 +2,7 @@
 
 ## 👾 About Me
 
-I'm Tripp — a systems-minded Explorer of Possibility Spaces.
+Systems researcher pursuing deterministic regulatory architectures through adversarial validation and empirical refinement.
 
 For the last 3 decades, I’ve been doing one thing consistently:  
 **Exploration**
@@ -17,7 +17,7 @@ I'm interested in:
 
 ### True Story
 
-In 2001, with almost no formal programming background, I taught myself just enough Perl, Bash, and regex over a weekend to automate a manually intensive workflow. Hours were compressed into seconds. My peers and I got our days back.  
+In 1999, with almost no formal programming background, I taught myself just enough Perl, Bash, and regex over a weekend to automate a manually intensive workflow. Hours were compressed into seconds. My peers and I got our days back.  
 
 I was hooked.
 
