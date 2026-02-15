@@ -2,7 +2,7 @@
 
 ## 👾 About Me
 
-Systems researcher pursuing deterministic regulatory architectures through adversarial validation and empirical refinement.
+Systems researcher pursuing deterministic homeostatic and homeoadaptive architectures through adversarial validation and empirical refinement.
 
 For the last 3 decades, I’ve been doing one thing consistently:  
 **Exploration**
