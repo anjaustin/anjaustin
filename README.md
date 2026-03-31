@@ -1,6 +1,6 @@
 # 👋 Greetings, Programs!
 
-## 👾 Hi! I'm Tripp. I figure things out.
+## 👾 I'm Tripp. I figure things out.
 
 I'm a systems researcher — trained by the empirical, and wired to understand how things function at the lowest level. I read systems, find the gold nuggets in the constraints most miss, and reconfigure the conventional into something faster, smaller, and sometimes into something fundamentally novel.
 
