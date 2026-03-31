@@ -30,8 +30,8 @@ My research is unified by a single thesis: ternary computation — arithmetic in
 
 - **MetaScorer** — Zero-config anomaly detection for embedded systems. Self-calibrates on 1,500 samples, commits a static threshold, and alerts when a signal deviates from learned dynamics. Fits in 9 kilobytes. Runs on industrial microcontrollers. No cloud, no training data, no configuration file.
 - **The Reflex** — Ternary neural inference on a $6 microcontroller at ~50 µA. Computes signed dot products entirely through peripheral routing hardware — pulse counters and parallel I/O repurposed as ternary multipliers. Hand-written RISC-V assembly, 6,320 bytes. Includes a ternary Closed-form Continuous-time (CfC) neural network in 3,615 bytes.
-- **SS|TT** — Zero-parameter ternary image classifier. 97.27% accuracy on MNIST with no learned parameters, no floating-point, and no gradient descent. Integer operations and table lookups only. All core data structures designed for L-Cache residency.
-- **lcvdb** — Vector database designed for exact recall using ternary-encoded embeddings and Hamming distance. No approximate nearest neighbors. No probabilistic shortcuts.
+- **SS|TT** — Zero-parameter ternary image classifier. 97.27% accuracy on MNIST with no learned parameters, no floating-point, and no gradient descent. Integer operations and table lookups only. All core data structures are designed for L-Cache residency.
+- **lcvdb** — 125 KB, Vector database designed for exact recall using ternary-encoded embeddings and Hamming distance. No approximate nearest neighbors. No probabilistic shortcuts.
 - **L-Cache Kernels** — A 12-opcode AVX2/NEON instruction set expressing the same ternary arithmetic that runs on peripheral hardware and RISC-V assembly. 4,600x faster than silicon, bit-identical results. Fungible computation — substrate changes, math doesn't.
 
 ## Original Inspiration
