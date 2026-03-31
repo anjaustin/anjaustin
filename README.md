@@ -20,7 +20,7 @@ I had no classical programming training. In point of fact, the last time I wrote
 
 But I understood the problem. And I knew it didn't have to be this hard.
 
-Extremely motivated, I spent a weekend learning just enough Perl and regular expressions to write a small hosted app that let us upload our text and HTML docs, replace the embedded URLs with trackable URLs, and download the new files. It worked! It wasn't pretty — but it reduced hours of testing into minutes. The following Monday morning, I shared it with the pre-sales reps in our company. My inbox overflowed with emails of gratitude for giving the teams their days back.
+Extremely motivated, I spent a weekend learning just enough Perl and regular expressions to write a small hosted app that let us upload our text and HTML docs, replace the embedded URLs with trackable URLs, and download the new files. It worked! It wasn't pretty — but it compressed hours of testing into minutes. The following Monday morning, I shared it with the pre-sales reps in our company. My inbox overflowed with emails of gratitude for giving the teams their days back.
 
 I was hooked. I love solutions.
 
